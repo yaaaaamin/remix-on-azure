@@ -12,6 +12,10 @@ export async function loader ({params}){
             slug:"yaamin"
         },
         {
+            parentSlug:"yolo",
+            slug:"yaamin"
+        },
+        {
             parentSlug:"home",
             slug:"about"
         }
