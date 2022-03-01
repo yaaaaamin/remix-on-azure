@@ -23,7 +23,7 @@
     "@azure/static-web-apps-cli": "0.8.2",
     "@types/react": "17.0.38",
     "@types/react-dom": "17.0.11",
-    "cross-env": "7.0.3",
+    "cross-env": "^7.0.3",
     "typescript": "4.5.4"
   },
   "engines": {
